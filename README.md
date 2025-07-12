@@ -38,3 +38,6 @@ Column Descriptions:
 21.	Profit: Profit margin on the product sale.
 
 This dataset provides comprehensive information for analyzing sales performance and customer behavior, serving as a foundation for creating a meaningful Power BI dashboard.
+#output
+<img width="1134" height="603" alt="Image" src="https://github.com/user-attachments/assets/53406567-1164-4508-b92a-2e40c7e9a8e6" />
+<img width="1006" height="628" alt="Image" src="https://github.com/user-attachments/assets/834d7da4-6fa4-4ce8-85bd-d1c29eae1b49" />
